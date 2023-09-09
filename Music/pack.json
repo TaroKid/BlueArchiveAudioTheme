@@ -1,0 +1,12 @@
+{
+    "name": "Blue Archive BGMusic",
+    "description": "The background music of the game Blue Archive.",
+    "author": "SagumaNatsu",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {
+        "menu_music.mp3": ["Walkthrough.mp3", "fun.mp3", "DefultLobby.mp3", "Cafe.mp3"]
+    }
+  }
